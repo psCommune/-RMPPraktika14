@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">praktika14</string>
+    <string name="welcome_inscription">Это пробная работа с api</string>
+    <string name="main_2_text">Ваш Ip:</string>
+    <string name="main2_button">Подробнее</string>
+    <string name="id">Ip:</string>
+    <string name="hostname">Hostname:</string>
+    <string name="city">City:</string>
+    <string name="region">Region:</string>
+    <string name="country">Country:</string>
+    <string name="loc">Loc:</string>
+    <string name="postal">Postal:</string>
+    <string name="timezone">Timezone:</string>
+    <string name="used_api1">Использовался Ipify API</string>
+    <string name="used_api2">Использовался Ipinfo API</string>
+</resources>
